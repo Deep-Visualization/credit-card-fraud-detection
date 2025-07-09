@@ -16,18 +16,7 @@ Please download `creditcard.csv.zip` from Kaggle and place it in the `/data` fol
 
 ---
 
-## ⚙️ Project Structure
 
-credit-card-fraud-detection/
-├── data/ # Raw dataset (creditcard.csv.zip)
-├── notebooks/
-│ ├── 01_data_exploration.ipynb
-│ ├── 02_model_undersampling.ipynb
-│ └── 03_model_SMOTE.ipynb
-├── models/ # (Optional) Trained models, if saved
-├── app.py # (Optional) Streamlit app (experimental)
-├── reports/ # Visualizations and evaluation results
-└── README.md # You're here
 
 
 
